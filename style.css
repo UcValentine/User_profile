@@ -169,8 +169,8 @@ input {
 footer {
   position: absolute;
   width: 20%;
-  bottom: 0;
-  right: -20px;
+  bottom: 5px;
+  right: 20px;
   text-align: right;
   font-size: 0.8em;
   text-transform: uppercase;
